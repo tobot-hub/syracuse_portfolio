@@ -1,0 +1,10 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: IST664 NLP
+Contents:
+	IST664_TobyAnderson_KatieHaugh_FinalProject.pdf
+		This file can be viewed in Adobe Acrobat or another pdf reader.
+		This report contains the result of the project.
+	IST664_TobyAnderson_KatieHaugh_FinalProject.py
+		This file can be viewed with Notepad++ or Python compatible IDE.
+		It contains all the code for the analysis and visualizations in the report.

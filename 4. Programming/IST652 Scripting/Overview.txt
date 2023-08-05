@@ -1,0 +1,10 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: IST652 Scripting
+Contents:
+	Anderson_Toby_Final_Project.docx
+		This file can be viewed in Microsoft Word.
+		This report contains the result of the project.
+	Anderson_Toby_Final_Project.ipynb
+		This file can be viewed with Jupyter Notebook.
+		It contains all the code for the analysis and visualizations in the report.

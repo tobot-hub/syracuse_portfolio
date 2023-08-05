@@ -1,0 +1,10 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: IST719 Visual Communication
+Contents:
+	Anderson_wk4hw.pdf
+		This file can be viewed in Adobe Acrobat, or other pdf reading software.
+		This file contains visualizations as part of a homework assignment.
+	Anderson_wk4hw.R
+		This file can be viewed with RStudio.
+		It contains all the code for creating the visualizations in the homework.

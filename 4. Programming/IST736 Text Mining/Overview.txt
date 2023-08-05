@@ -1,0 +1,10 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: IST736 Text Mining
+Contents:
+	Final_Project_Toby_Anderson.docx
+		This file can be viewed in Microsoft Word.
+		This report contains the result of the project.
+	Final_Project_Toby_Anderson.ipynb
+		This file can be viewed with Jupyter Notebook.
+		It contains all the code for the analysis and visualizations in the report.

@@ -1,0 +1,13 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: MBC638 Decision Making
+Contents:
+	Toby Anderson Final Project.pptx
+		This file can be viewed in Powerpoint
+		The report contains results for the process improvement project
+	Final Project.ipynb
+		This file can be viewed with Jupyter Notebook
+		It contains the analysis and visualization for the report.
+	resume_grader.py
+		This file can be viewed in Notepad++ or a Python supported IDE
+		It is a supporting script, which used the OpenAI API to extract data into CSV form.

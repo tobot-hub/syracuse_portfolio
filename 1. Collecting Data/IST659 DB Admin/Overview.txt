@@ -1,0 +1,13 @@
+Student: Toby Anderson
+SUID: tander10
+Folder: IST659 DB Admin
+Contents:
+	Toby_Anderson_Project2.docx
+		This file can be viewed in Microsoft Word.
+		This report contains the result of the project.
+	parse_json.py
+		This file can be viewed in Notepad++ or a Python supported IDE, such as Visual Studio Code
+		The file was used to convert the JSON movie data into multiple CSVs which were loaded into SSMS
+	sf_queries.docx
+		This file can be viewed in Microsoft Word.
+		It contains the queries used to produce the results in the report.
